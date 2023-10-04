@@ -6,6 +6,12 @@
 
 ---
 
+## Project Images
+
+Please check the `New folder` directory for additional project-related images and files.
+
+...
+
 ## Table of Contents
 
 - [About](#about)
