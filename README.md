@@ -1,6 +1,6 @@
 # Shopping Management System (Java)
 
-![Project Image](project_image_url_here)
+![Project Image](New folder/login/login.png)
 
 > A comprehensive shopping management system built with Java.
 
